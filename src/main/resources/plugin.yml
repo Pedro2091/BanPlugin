@@ -1,0 +1,11 @@
+name: BanPluginMain
+version: ${project.version}
+main: me.pedro2091.banplugin.BanPlugin
+api-version: 1.16
+commands:
+  Pban:
+    description: ban
+  Punban:
+    description: unban
+  Ptempmute:
+    description: mute
